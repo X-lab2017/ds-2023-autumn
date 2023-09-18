@@ -25,7 +25,7 @@ Introduction to Data Science - 2023 Autumn
 | 周数📆 | 日期🕣 | 内容📒 | 主讲💂‍♂️ | 本周任务 📌| 课件📘 |开放资源📂 |
 | :----: | :----: | ------ | :----------------------------------------: | :-----------------------------------------------------: | :--------------------------------------------------------------------------------: | :-------------------------------------------------------------: |
 |   01   | 09-11 | 数据科学概述 | [@will-ww](https://github.com/will-ww) | [任务01](https://github.com/X-lab2017/ds-2023-autumn/issues/1) |[课件01](https://github.com/X-lab2017/ds-2023-autumn/tree/main/lecture01) |[资料](https://github.com/X-lab2017/ds-2023-autumn/tree/main/resource) |
-|   02   | 09-18 | 数据思维与案例 | [@will-ww](https://github.com/will-ww) |[任务02](https://github.com/X-lab2017/ds-2023-autumn/issues/2)  |[课件02](https://github.com/X-lab2017/ds-2023-autumn/tree/main/lecture02)|    |
+|   02   | 09-18 | 数据思维与案例 | [@will-ww](https://github.com/will-ww) |[任务02](https://github.com/X-lab2017/ds-2023-autumn/issues/3)  |[课件02](https://github.com/X-lab2017/ds-2023-autumn/tree/main/lecture02)|[资料](https://github.com/X-lab2017/ds-2023-autumn/tree/main/resource) |
 |   03   | 09-25 | 计算系统与基础设施 | [@will-ww](https://github.com/will-ww) |     |    |    |
 |   04   | 10-02 | 数据全生命周期管理 | [@will-ww](https://github.com/will-ww) |     |    |    |
 |   05   | 10-09 | 数据分析方法 | [@will-ww](https://github.com/will-ww) |     |    |    |
