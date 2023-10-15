@@ -29,7 +29,7 @@ Introduction to Data Science - 2023 Autumn
 |   03   | 09-25 | 计算系统与基础设施 | [@will-ww](https://github.com/will-ww) |[任务03](https://github.com/X-lab2017/ds-2023-autumn/issues/7)|[课件03](https://github.com/X-lab2017/ds-2023-autumn/tree/main/lecture03) |[资料](https://github.com/X-lab2017/ds-2023-autumn/tree/main/resource) |
 |   04   | 10-02 | - |  |     |    |    |
 |   05   | 10-09 | 数据全生命周期管理 & 数据库 | [@will-ww](https://github.com/will-ww) | [任务05](https://github.com/X-lab2017/ds-2023-autumn/issues/8) | [课件05](https://github.com/X-lab2017/ds-2023-autumn/tree/main/lecture05) | [资料](https://github.com/X-lab2017/ds-2023-autumn/tree/main/resource) |
-|   06   | 10-02 | 数据分析方法 | [@will-ww](https://github.com/will-ww) |     |    |    |
+|   06   | 10-02 | 数据科学过程与分析方法 | [@will-ww](https://github.com/will-ww) |     |    |    |
 |   07   | 10-16 | 机器学习 | @hujilin1229 |     |    |    |
 |   08   | 10-23 | 数据挖掘 | @hujilin1229 |     |    |    |
 |   09   | 10-30 | 数据科学综合实践 | [@will-ww](https://github.com/will-ww) |     |    |    |
