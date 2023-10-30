@@ -30,8 +30,8 @@ Introduction to Data Science - 2023 Autumn
 |   04   | 10-02 | - |  |     |    |    |
 |   05   | 10-09 | 数据全生命周期管理 & 数据库 | [@will-ww](https://github.com/will-ww) | [任务05](https://github.com/X-lab2017/ds-2023-autumn/issues/8) | [课件05](https://github.com/X-lab2017/ds-2023-autumn/tree/main/lecture05) | [资料](https://github.com/X-lab2017/ds-2023-autumn/tree/main/resource) |
 |   06   | 10-02 | 数据科学过程与分析方法 | [@will-ww](https://github.com/will-ww) | [任务06](https://github.com/X-lab2017/ds-2023-autumn/issues/11) |[课件06](https://github.com/X-lab2017/ds-2023-autumn/tree/main/lecture06) |[资料](https://github.com/X-lab2017/ds-2023-autumn/tree/main/resource) |
-|   07   | 10-16 | 机器学习 | @hujilin1229 |     |[课件07](https://github.com/X-lab2017/ds-2023-autumn/tree/main/lecture07) |    |
-|   08   | 10-23 | 数据挖掘 | @hujilin1229 |     |    |    |
+|   07   | 10-16 | 机器学习 | @hujilin1229 | [任务07](https://github.com/X-lab2017/ds-2023-autumn/issues/13)  |[课件07](https://github.com/X-lab2017/ds-2023-autumn/tree/main/lecture07) | [资料](https://github.com/X-lab2017/ds-2023-autumn/tree/main/resource)   |
+|   08   | 10-23 | 数据挖掘 | @hujilin1229 | [任务08](https://github.com/X-lab2017/ds-2023-autumn/issues/14) |[课件08](https://github.com/X-lab2017/ds-2023-autumn/tree/main/lecture08)   | [资料](https://github.com/X-lab2017/ds-2023-autumn/tree/main/resource)   |
 |   09   | 10-30 | 数据科学综合实践 | [@will-ww](https://github.com/will-ww) |     |    |    |
 
 ---
